@@ -1,8 +1,6 @@
 // CS2211b 2023
 // Assignment 3
 // Shaylan Pratt
-// 251225611
-// spratt28
 // March 1, 2023
 
 #include <stdio.h>
