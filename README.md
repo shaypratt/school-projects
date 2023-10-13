@@ -1,2 +1,2 @@
 # school-projects 
-Projects from my computer science classes over the past 3 years
+Some projects that I have done for my computer science courses
